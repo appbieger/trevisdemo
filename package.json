@@ -1,0 +1,23 @@
+{
+  "name": "trevisdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha todos/index.test.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appbieger/trevisdemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/appbieger/trevisdemo/issues"
+  },
+  "homepage": "https://github.com/appbieger/trevisdemo#readme",
+  "devDependencies": {
+    "mocha": "^9.1.4",
+    "request": "^2.88.2"
+  }
+}
